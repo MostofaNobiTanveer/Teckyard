@@ -1,0 +1,150 @@
+[
+  {
+    "name": "CORSAIR K100 RGB SPECS",
+    "price": 229.99,
+    "description": "The incomparable CORSAIR K100 RGB Mechanical Gaming Keyboard combines stunning aluminum design, per-key RGB lighting with powerful CORSAIR AXON Hyper-Processing Technology and CHERRY MX SPEED keyswitches.",
+    "images": [
+      {
+        "public_id": "techyard/products/whjrwxewrfqukv3xapjx",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651467887/techyard/products/whjrwxewrfqukv3xapjx.png"
+      }
+    ],
+    "category": "Keyboard",
+    "stock": 10,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "DARK CORE RGB PRO SE Wireless Gaming Mouse",
+    "price": 79.99,
+    "description": "The CORSAIR DARK CORE RGB SE gaming mouse uses an ultra-fast 1ms 2.4GHz wireless connection, Qi® wireless charging and a 18,000 DPI optical sensor for true wireless gaming.",
+    "images": [
+      {
+        "public_id": "techyard/products/d9nx0dqmgt1vfeftjupp",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651468130/techyard/products/d9nx0dqmgt1vfeftjupp.png"
+      }
+    ],
+    "category": "Mouse",
+    "stock": 7,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "RAZER BLACKSHARK V2",
+    "price": 82.54,
+    "description": "Razer™ Triforce Titanium 50 mm Drivers\nRazer™ HyperClear Cardioid Mic With USB Sound Card\nFlowKnit Memory Foam Ear Cushions",
+    "images": [
+      {
+        "public_id": "techyard/products/turbsgzrgkb1iyvphnzv",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651468529/techyard/products/turbsgzrgkb1iyvphnzv.png"
+      },
+      {
+        "public_id": "techyard/products/dkttqbxkxdr44u8vo4ff",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651468530/techyard/products/dkttqbxkxdr44u8vo4ff.png"
+      }
+    ],
+    "category": "Headphones",
+    "stock": 10,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Logitech G240 Mousepad",
+    "price": 18.99,
+    "description": "Gaming using low-DPI settings benefits from moderate resistance to the mouse feet when starting or stopping a rapid movement. Heat-treated at 200° C, the cloth surface of G240 provides just the right amount of friction for low-DPI maneuvers.",
+    "images": [
+      {
+        "public_id": "techyard/products/leujyfmqrllqpi86owmk",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651468735/techyard/products/leujyfmqrllqpi86owmk.png"
+      }
+    ],
+    "category": "Mousepad",
+    "stock": 15,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "KM360 Black/White",
+    "price": 68.99,
+    "description": "Featuring long-lasting Cherry MX mechanical keyswitches, wear-proof ABS double injection keycaps, and a solid aluminum top-plate, the KM360 mechanical keyboard is the perfect daily mechanical keyboard. With a detachable USB Type-C cable, it's easy to replace a worn cable by simply swapping it out with another USB Type-C cable of your choice.",
+    "images": [
+      {
+        "public_id": "techyard/products/uofx49yc0c3qwizoaf4z",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469112/techyard/products/uofx49yc0c3qwizoaf4z.png"
+      },
+      {
+        "public_id": "techyard/products/xh9vhqjn6g9vvtuqxbfu",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469115/techyard/products/xh9vhqjn6g9vvtuqxbfu.png"
+      }
+    ],
+    "category": "Keyboard",
+    "stock": 6,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Logitech G502 LIGHTSPEED Wireless Gaming Mouse",
+    "price": 149.99,
+    "description": "Iconic G502 design meets pro-grade LIGHTSPEED wireless for ultra-fast, reliable connectivity. HERO 25K sensor features sub-micron tracking. POWERPLAY compatible for continuous charging both at rest and play.",
+    "images": [
+      {
+        "public_id": "techyard/products/zwuseoczumrylzzawd0a",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469414/techyard/products/zwuseoczumrylzzawd0a.png"
+      },
+      {
+        "public_id": "techyard/products/iv0cumq8uhn4gmtgxsbm",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469416/techyard/products/iv0cumq8uhn4gmtgxsbm.png"
+      }
+    ],
+    "category": "Mouse",
+    "stock": 9,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "beyerdynamic mmx 100",
+    "price": 99,
+    "description": "Clear and precise sound on studio level\nNatural vocal transmission with low ambient noise thanks to detachable META VOICE microphone\nVolume control wheel and separate mute switch for intuitive operation\nExcellent wearing comfort throughout many many hours of gaming\nDetachable microphone, cable and replaceable spare parts for durability",
+    "images": [
+      {
+        "public_id": "techyard/products/pfdgafrddrz5ekvlmjbg",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469979/techyard/products/pfdgafrddrz5ekvlmjbg.png"
+      },
+      {
+        "public_id": "techyard/products/dxynprudfo0qkyq89hbx",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651469981/techyard/products/dxynprudfo0qkyq89hbx.png"
+      }
+    ],
+    "category": "Headphones",
+    "stock": 12,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  },
+  {
+    "name": "Razer Strider Hybrid Mouse Mat",
+    "price": 49.99,
+    "description": "Experience a fusion of slick swipes and crisp control with the Razer Strider—a hybrid mouse mat that combines the glide of a hard surface with the rollable, portable nature of a soft base. Designed to offer the best of both worlds, the only choice you’ll have to make is how you want to win.",
+    "images": [
+      {
+        "public_id": "techyard/products/ddpd43a50wunh8nxmq47",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651470479/techyard/products/ddpd43a50wunh8nxmq47.png"
+      },
+      {
+        "public_id": "techyard/products/loy4ly3s9gk9cvhepyfr",
+        "url": "https://res.cloudinary.com/mnscloud/image/upload/v1651470481/techyard/products/loy4ly3s9gk9cvhepyfr.png"
+      }
+    ],
+    "category": "Mousepad",
+    "stock": 10,
+    "ratings": 0,
+    "numOfReviews": 0,
+    "reviews": []
+  }
+]
